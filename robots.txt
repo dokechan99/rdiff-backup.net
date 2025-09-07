@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://velosbet77.rdiff-backup.net/sitemap.xml
